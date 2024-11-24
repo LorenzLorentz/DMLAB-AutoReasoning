@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/Users/lorenzlorentz/Library/CloudStorage/SeaDrive-\u738b\u9e4f\u6770(cloud.tsinghua.edu.cn)/\u6211\u7684\u8d44\u6599\u5e93/CSEFCloud/Notes&Homework&Assignment/Discrete Maths/Assignment/cmake-build-debug",
+	"dir-cur-src" : "/Users/lorenzlorentz/Library/CloudStorage/SeaDrive-\u738b\u9e4f\u6770(cloud.tsinghua.edu.cn)/\u6211\u7684\u8d44\u6599\u5e93/CSEFCloud/Notes&Homework&Assignment/Discrete Maths/Assignment",
+	"dir-top-bld" : "/Users/lorenzlorentz/Library/CloudStorage/SeaDrive-\u738b\u9e4f\u6770(cloud.tsinghua.edu.cn)/\u6211\u7684\u8d44\u6599\u5e93/CSEFCloud/Notes&Homework&Assignment/Discrete Maths/Assignment/cmake-build-debug",
+	"dir-top-src" : "/Users/lorenzlorentz/Library/CloudStorage/SeaDrive-\u738b\u9e4f\u6770(cloud.tsinghua.edu.cn)/\u6211\u7684\u8d44\u6599\u5e93/CSEFCloud/Notes&Homework&Assignment/Discrete Maths/Assignment",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/Users/lorenzlorentz/Library/CloudStorage/SeaDrive-\u738b\u9e4f\u6770(cloud.tsinghua.edu.cn)/\u6211\u7684\u8d44\u6599\u5e93/CSEFCloud/Notes&Homework&Assignment/Discrete Maths/Assignment/cmake-build-debug/CMakeFiles/resolution.dir"
+}

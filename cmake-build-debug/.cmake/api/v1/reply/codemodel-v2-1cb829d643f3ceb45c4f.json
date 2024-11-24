@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Assignment",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Assignment::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Assignment-Debug-afe526f73eaa666830af.json",
+					"name" : "Assignment",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "guijie::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-guijie-Debug-61474d5b0dcad5e59e14.json",
+					"name" : "guijie",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "resoalgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-resoalgorithm-Debug-62ec1c90b624d62e926c.json",
+					"name" : "resoalgorithm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "whalgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-whalgorithm-Debug-b7a0c16a22bedb6d993a.json",
+					"name" : "whalgorithm",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/lorenzlorentz/Library/CloudStorage/SeaDrive-\u738b\u9e4f\u6770(cloud.tsinghua.edu.cn)/\u6211\u7684\u8d44\u6599\u5e93/CSEFCloud/Notes&Homework&Assignment/Discrete Maths/Assignment/cmake-build-debug",
+		"source" : "/Users/lorenzlorentz/Library/CloudStorage/SeaDrive-\u738b\u9e4f\u6770(cloud.tsinghua.edu.cn)/\u6211\u7684\u8d44\u6599\u5e93/CSEFCloud/Notes&Homework&Assignment/Discrete Maths/Assignment"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
