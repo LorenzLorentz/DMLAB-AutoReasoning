@@ -1,0 +1,1 @@
+/opt/homebrew/Cellar/gcc/14.2.0/bin/g++-14 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/fordebug.dir/fordebug.cpp.o -o fordebug

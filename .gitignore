@@ -1,0 +1,4 @@
+*.lake
+*.zip
+fordebug.cpp
+*.log
