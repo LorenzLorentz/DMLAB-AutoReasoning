@@ -1,8 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-//ofstream cout("falseProp3.log");
-
 //定义二叉树节点
 struct tree {
     char val;
@@ -314,23 +312,6 @@ bool whalgorithm(vector<tree*>& head,vector<tree*>& tail) {
                     return true;
                 }
             } else if(c=='>') {
-                /* vector<tree*> temp1=head;
-                vector<tree*> temp2=tail;
-                tree* tempnode=new tree;
-                tree* templeft=new tree;
-                tempnode->val='v';
-                templeft->val='!';
-                templeft->left=nullptr;
-                templeft->right=new tree(*tail[i]->left);
-                tempnode->left=new tree(*templeft);
-                tempnode->right=new tree(*tail[i]->right);
-                temp2.push_back(tempnode);
-                temp2.erase(tail.begin()+i);
-                if(!whalgorithm(temp1,temp2)) {
-                    return false;
-                } else if(backFrontCheck(head)&&backBackCheck(tail,i)) {
-                    return true;
-                } */
                 vector<tree*> temp1=head;
                 vector<tree*> temp2=tail;
                 temp1.push_back(tail[i]->left);

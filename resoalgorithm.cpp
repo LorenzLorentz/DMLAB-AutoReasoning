@@ -22,6 +22,15 @@ struct atom {
     }
 };
 
+tree* deepCopy(tree* root) {
+    if(root==nullptr) return nullptr;
+    tree* newRoot =new tree;
+    newRoot->val=root->val;
+    newRoot->left=deepCopy(root->left);
+    newRoot->right=deepCopy(root->right);
+    return newRoot;
+}
+
 //操作优先级
 int precedence(char c) {
     if(c=='!') return 4;
@@ -255,12 +264,14 @@ tree* elimImp(tree* treenode) {
         treenode->val='^';
         tree* temp1=new tree;
         tree* temp2=new tree;
+        tree* temp3=deepCopy(treenode);
+        tree* temp4=deepCopy(treenode);
         temp1->val='>';
-        temp1->left=treenode->left;
-        temp1->right=treenode->right;
+        temp1->left=temp3->left;
+        temp1->right=temp3->right;
         temp2->val='>';
-        temp2->left=treenode->right;
-        temp2->right=treenode->left;
+        temp2->left=temp4->right;
+        temp2->right=temp4->left;
         treenode->left=temp1;
         treenode->right=temp2;
     }

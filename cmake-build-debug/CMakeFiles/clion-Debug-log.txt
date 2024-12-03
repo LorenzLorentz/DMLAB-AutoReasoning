@@ -1,4 +1,4 @@
-/Users/lorenzlorentz/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/opt/homebrew/Cellar/gcc/14.2.0/bin/gcc-14 -DCMAKE_CXX_COMPILER=/opt/homebrew/Cellar/gcc/14.2.0/bin/g++-14 -S "/Users/lorenzlorentz/Library/CloudStorage/SeaDrive-王鹏杰(cloud.tsinghua.edu.cn)/我的资料库/CSEFCloud/Notes&Homework&Assignment/Discrete Maths/Assignment" -B "/Users/lorenzlorentz/Library/CloudStorage/SeaDrive-王鹏杰(cloud.tsinghua.edu.cn)/我的资料库/CSEFCloud/Notes&Homework&Assignment/Discrete Maths/Assignment/cmake-build-debug"
+/Users/lorenzlorentz/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/opt/homebrew/Cellar/gcc/14.2.0/bin/gcc-14 -DCMAKE_CXX_COMPILER=/opt/homebrew/Cellar/gcc/14.2.0/bin/g++-14 -G "Unix Makefiles" -S "/Users/lorenzlorentz/Library/CloudStorage/SeaDrive-王鹏杰(cloud.tsinghua.edu.cn)/我的资料库/CSEFCloud/Notes&Homework&Assignment/Discrete Maths/Assignment" -B "/Users/lorenzlorentz/Library/CloudStorage/SeaDrive-王鹏杰(cloud.tsinghua.edu.cn)/我的资料库/CSEFCloud/Notes&Homework&Assignment/Discrete Maths/Assignment/cmake-build-debug"
 -- The C compiler identification is GNU 14.2.0
 -- The CXX compiler identification is GNU 14.2.0
 -- Checking whether C compiler has -isysroot
@@ -19,6 +19,6 @@
 -- Check for working CXX compiler: /opt/homebrew/Cellar/gcc/14.2.0/bin/g++-14 - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Configuring done (3.7s)
+-- Configuring done (2.4s)
 -- Generating done (0.0s)
 -- Build files have been written to: /Users/lorenzlorentz/Library/CloudStorage/SeaDrive-王鹏杰(cloud.tsinghua.edu.cn)/我的资料库/CSEFCloud/Notes&Homework&Assignment/Discrete Maths/Assignment/cmake-build-debug
