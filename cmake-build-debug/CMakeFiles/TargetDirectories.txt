@@ -1,6 +1,0 @@
-/Users/lorenzlorentz/Library/CloudStorage/SeaDrive-王鹏杰(cloud.tsinghua.edu.cn)/我的资料库/CSEFCloud/Notes&Homework&Assignment/Discrete Maths/Assignment/cmake-build-debug/CMakeFiles/Assignment.dir
-/Users/lorenzlorentz/Library/CloudStorage/SeaDrive-王鹏杰(cloud.tsinghua.edu.cn)/我的资料库/CSEFCloud/Notes&Homework&Assignment/Discrete Maths/Assignment/cmake-build-debug/CMakeFiles/resoalgorithm.dir
-/Users/lorenzlorentz/Library/CloudStorage/SeaDrive-王鹏杰(cloud.tsinghua.edu.cn)/我的资料库/CSEFCloud/Notes&Homework&Assignment/Discrete Maths/Assignment/cmake-build-debug/CMakeFiles/whalgorithm.dir
-/Users/lorenzlorentz/Library/CloudStorage/SeaDrive-王鹏杰(cloud.tsinghua.edu.cn)/我的资料库/CSEFCloud/Notes&Homework&Assignment/Discrete Maths/Assignment/cmake-build-debug/CMakeFiles/fordebug.dir
-/Users/lorenzlorentz/Library/CloudStorage/SeaDrive-王鹏杰(cloud.tsinghua.edu.cn)/我的资料库/CSEFCloud/Notes&Homework&Assignment/Discrete Maths/Assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/lorenzlorentz/Library/CloudStorage/SeaDrive-王鹏杰(cloud.tsinghua.edu.cn)/我的资料库/CSEFCloud/Notes&Homework&Assignment/Discrete Maths/Assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
